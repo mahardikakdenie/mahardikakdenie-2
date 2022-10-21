@@ -1,4 +1,7 @@
 <p align="center">
+  <a href="https://instagram.com/mahardikakdenie">
+    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40mahardikakdenie&logo=instagram&logoColor=00AEFF&labelColor=black&color=7fff00">
+  </a>
   <a href="https://twitter.com/mahardikakdenie">
     <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40mahardikakdenie&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
