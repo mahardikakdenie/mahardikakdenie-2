@@ -1,3 +1,11 @@
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Mahardika Kessuma Denie, Full Stack Web Developer :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 <p align="center">
   <a href="https://instagram.com/mahardikakdenie">
     <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40mahardikakdenie&logo=instagram&logoColor=00AEFF&labelColor=black&color=7fff00">
@@ -8,6 +16,8 @@
   <a href="https://www.linkedin.com/in/mahardika-kessuma-denie-3516b720b/">
     <img src="https://img.shields.io/badge/-mahardikakdenie-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
+</p>
+<p align=center>
   <a href="mailto:dikamahar884@gmail.com">
     <img src="https://img.shields.io/badge/dikamahar884@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
