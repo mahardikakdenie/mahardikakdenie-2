@@ -2,7 +2,7 @@
   <a href="https://twitter.com/mahardikakdenie">
     <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40mahardikakdenie&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
-  <a href="https://www.linkedin.com/in/mahardikakdenie-54676a12a/">
+  <a href="https://www.linkedin.com/in/mahardika-kessuma-denie-3516b720b/">
     <img src="https://img.shields.io/badge/-mahardikakdenie-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:dikamahar884@gmail.com">
