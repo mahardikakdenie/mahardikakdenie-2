@@ -6,19 +6,19 @@
 </h2> 
 <br>
 <p align="center">
-  <a target="__blank" href="https://instagram.com/mahardikakdenie">
+<!--   <a target="__blank" href="https://instagram.com/mahardikakdenie">
     <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40mahardikakdenie&logo=instagram&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
   <a target="__blank" href="https://twitter.com/mahardikakdenie">
     <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40mahardikakdenie&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
-  </a>
-  <a target="__blank" href="https://www.linkedin.com/in/mahardika-kessuma-denie-3516b720b/">
+  </a> -->
+<!--   <a target="__blank" href="https://www.linkedin.com/in/mahardika-kessuma-denie-3516b720b/">
     <img src="https://img.shields.io/badge/-mahardikakdenie-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
+  </a> -->
 </p>
 <p align=center>
-  <a target="__blank" href="mailto:dikamahar884@gmail.com">
-    <img src="https://img.shields.io/badge/dikamahar884@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
+  <a target="__blank" href="mailto:kucingemas744@gmail.com">
+    <img src="https://img.shields.io/badge/kucingemas744@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
