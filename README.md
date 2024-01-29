@@ -16,11 +16,11 @@
     <img src="https://img.shields.io/badge/-mahardikakdenie-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a> -->
 </p>
-<p align=center>
+<!-- <p align=center>
   <a target="__blank" href="mailto:kucingemas744@gmail.com">
     <img src="https://img.shields.io/badge/kucingemas744@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-</p>
+</p> -->
 
 <a target="__blank" href="https://github.com/mahardikakdenie">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahardikakdenie&count_private=true&show_icons=true&theme=chartreuse-dark" />
